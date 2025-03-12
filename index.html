@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planejamento Estratégico</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <h1>Planejamento Estratégico</h1>
+
+    <div id="menu">
+        <button onclick="carregarConteudo('regulamentacoes')">📜 Regulamentações Aduaneiras</button>
+        <button onclick="carregarConteudo('acordos')">🌍 Acordos Comerciais</button>
+        <button onclick="carregarConteudo('barreiras')">⚠️ Barreiras Comerciais</button>
+        <button onclick="carregarConteudo('tendencias')">📊 Tendências</button>
+        <button onclick="carregarConteudo('logistica')">🚚 Logística Internacional</button>
+    </div>
+
+    <div id="conteudo"></div>
+
+    <button id="iniciarQuestoes" style="display:none;" onclick="iniciarQuestoes()">🎯 Responder Questões</button>
+
+    <div id="questoes" style="display:none;"></div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
