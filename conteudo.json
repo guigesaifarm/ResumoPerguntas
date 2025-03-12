@@ -1,0 +1,30 @@
+{
+    "regulamentacoes": {
+        "resumo": "As regulamentações aduaneiras controlam a entrada e saída de mercadorias...",
+        "questoes": [
+            {
+                "pergunta": "Qual a função principal das regulamentações aduaneiras?",
+                "opcoes": [
+                    "A) Controlar a entrada e saída de mercadorias e aplicar tributos",
+                    "B) Permitir o livre comércio sem fiscalização",
+                    "C) Garantir que apenas produtos nacionais sejam comercializados"
+                ],
+                "correta": 0
+            }
+        ]
+    },
+    "acordos": {
+        "resumo": "Os acordos comerciais internacionais são tratados entre países...",
+        "questoes": [
+            {
+                "pergunta": "Qual é a principal diferença entre um acordo bilateral e um acordo multilateral?",
+                "opcoes": [
+                    "A) Bilateral envolve dois países, multilateral envolve vários países",
+                    "B) Multilateral é mais restrito que o bilateral",
+                    "C) Ambos envolvem apenas países da mesma região"
+                ],
+                "correta": 0
+            }
+        ]
+    }
+}
